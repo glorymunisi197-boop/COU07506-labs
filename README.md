@@ -23,9 +23,9 @@ This repository contains my laboratory practical work for the COU07506 Digital S
 `COU07506_Week01.ipynb`
 
 ## Student Information
-- **Name:** Your Full Name
-- **Registration Number:** Your Registration Number
-- **Class:** BEng24CoE
+- **Name:** GLORY TATIZO MUNISI
+- **Registration Number:** 240242479384
+- **Class:** BEng24CoE1
 
 ## Purpose
 This repository is used to organize and submit Digital Signal Processing laboratory activities.# COU07506-labs
